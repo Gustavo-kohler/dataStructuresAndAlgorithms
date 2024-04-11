@@ -1,4 +1,4 @@
-package classes;
+package Structures;
 
 public class Stack<T> {
 
