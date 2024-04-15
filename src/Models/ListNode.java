@@ -10,11 +10,6 @@ public class ListNode<T> {
             this.next = null;
         }
 
-        public ListNode(T data, ListNode<T> next) {
-            this.data = data;
-            this.next = next;
-        }
-
         public T getData() {
             return data;
         }
